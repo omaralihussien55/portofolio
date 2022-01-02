@@ -97,7 +97,7 @@ let projectContent = document.querySelector(".project-content");
 let item = arrProject.map((i)=>{
     const {id , photo , title , desc ,site} = i
     return`
-    <div class="col-10 col-md-4 mb-2">
+    <div class="col-10 col-md-4 mx-auto mx-md-0 mb-3">
     <div class="div-col border shadow ">
 
      <div class="h-50">
@@ -112,4 +112,3 @@ let item = arrProject.map((i)=>{
 });
 
 projectContent.innerHTML = item.join("") 
-// PiyaUHyrEmY55J$v@C1T
