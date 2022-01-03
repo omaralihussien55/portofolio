@@ -80,15 +80,15 @@ let arrProject = [
         photo:"./imgfood/Calculator-amico.png",
         title:"calculator",
         desc:"Adjust your calculations with ease",
-        site:"https://oali09213.github.io/calculator"
+        site:"https://omaralihussien55.github.io/calculator/"
     
     },
     {
         id:2,
-        photo:"./imgfood/Customer Survey-bro.png",
+        photo:" ./imgfood/Customer Survey-bro.png",
         title:"Survey",
         desc:"Say your opinion and win prizes",
-        site:"https://oali09213.github.io/Survey/"
+        site:"https://omaralihussien55.github.io/surveys/"
     
     },
 ];
